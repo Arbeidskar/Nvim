@@ -1,4 +1,4 @@
-Config for Neovim with the bare minimum of basic plugins  
+Config (Lua) for Neovim with the bare minimum of basic plugins  
 
 Plugins: {
 
